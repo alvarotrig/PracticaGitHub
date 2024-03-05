@@ -9,6 +9,8 @@ public class Practica3 {
 		System.out.println("Tercer cambio");
 		
 		String nombre= "Alvaro Trigueros";
+		
+		System.out.println(nombre);
 	}
 
 }
